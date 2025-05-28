@@ -103,4 +103,4 @@ Bot: Goodbye! Have a great day.
 ✅ Outcome
 
 
-
+![Image](https://github.com/user-attachments/assets/adc73ebf-62b6-4392-9474-e27f41a856b9)
